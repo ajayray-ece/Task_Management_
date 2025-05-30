@@ -23,8 +23,8 @@ A simple, lightweight task management web application built with React. This app
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ajayray-ece/Task_Management
-cd Task_Management
+git clone https://github.com/ajayray-ece/Task_Management_
+cd Task_Management_
 ```
 
 2. Install dependencies:
